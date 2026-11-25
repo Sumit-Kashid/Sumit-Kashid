@@ -32,6 +32,15 @@ A patient flow and capacity tool for hospital staff. The rule I build by: Python
 **Prior Authorization Readiness Classifier** · [NLP](https://github.com/Sumit-Kashid/NLP)
 Fine tuned BiomedBERT on 5,000 de identified MIMIC IV records and compared three BERT models against a TF IDF baseline, with leakage prevention, weighted loss, threshold tuning, and fp16 mixed precision on GPU. The result was near random AUC with a majority class bias, and I reported it that way rather than leaning on a single F1 score.
 
+**Regork Coupon Campaign Analysis** · [Data-Wrangling](https://github.com/Sumit-Kashid/Data-Wrangling)
+R analysis of 653 coupon redemptions across 2,500 households. Found redemptions peak on day 6 and that 43% of exposed households had no income data, which hurt targeting more than any campaign setting. Group project.
+
+**KO_MED Hospital Database** · [Data-Warehouse](https://github.com/Sumit-Kashid/Data-Warehouse)
+Nine table SQL Server database normalized to 3NF, with an ER diagram, transaction scripts, and an INSTEAD OF trigger that blocks assigning an occupied bed.
+
+**Red Wine Sugar and Density** · [Stat-Modeling](https://github.com/Sumit-Kashid/Stat-Modeling)
+Hypothesis testing in R on 1,599 wines: Welch t test, ANOVA, and a chi square test checked with a 2,000 run permutation test.
+
 **Hospital Navigation Chatbot Observability**
 Added Langfuse tracing to a Django chatbot built on LangChain and Azure OpenAI, working through breaking changes in Langfuse v4 and LangChain 1.x.
 
