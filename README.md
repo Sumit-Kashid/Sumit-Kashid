@@ -1,6 +1,6 @@
 # Sumit Kashid
 
-Software engineer with nearly 4 years of experience building backend services, data pipelines, and LLM tools that check their data before anyone acts on it. I work at Cincinnati Children's Hospital on production LLM tools for hospital staff, and before graduate school I spent two and a half years as a full stack engineer at Bank of America.
+AI engineer. I build LLM agents and the data systems behind them, and make sure they check their numbers before anyone acts on them. At Cincinnati Children's Hospital I build Care Advisor, an LLM agent for hospital staff, working on tool use, structured outputs, agent memory, and evaluation. I have nearly 4 years of experience shipping software, including two and a half years as a full stack engineer at Bank of America.
 
 Master of Science in Business Analytics, University of Cincinnati, Carl H. Lindner College of Business. Expected December 2026.
 
@@ -65,11 +65,12 @@ An explainable AI assistant design with bias evaluation and audit logging.
 
 ## Tools I use
 
-**Languages:** Python, TypeScript, JavaScript, SQL, Java, R, PySpark
-**Backend:** FastAPI, Django, Node.js, Spring Boot, Kafka, .NET microservices, Pydantic
+**LLM and agents:** LLM APIs, Azure OpenAI, tool use, structured outputs, agent memory, MCP, LangChain, LangGraph, RAG
+**Evaluation and reliability:** evaluation test sets and scoring, Langfuse, MLflow, structured logging
+**Machine learning:** NLP, fine tuning BERT models, GPU training, SVMs, time series, scikit learn
+**Backend:** Python, FastAPI, Pydantic, Django, Node.js, TypeScript, Spring Boot, Kafka
 **Cloud and DevOps:** Azure, AWS, GCP, Docker, GitHub Actions
-**Data:** Microsoft Fabric, Azure Data Factory, Snowflake, Power BI, Tableau
-**LLM systems:** Azure OpenAI, MCP, LangChain, LangGraph, RAG, Langfuse, MLflow
+**Data:** SQL, Microsoft Fabric, Azure Data Factory, Snowflake, PySpark, Power BI, Tableau
 
 ## Contact
 
