@@ -4,6 +4,8 @@ Software engineer with nearly 4 years of experience building backend services, d
 
 Master of Science in Business Analytics, University of Cincinnati, Carl H. Lindner College of Business. Expected December 2026.
 
+**Website:** [sumit-kashid.github.io](https://sumit-kashid.github.io)
+
 ## In numbers
 
 | | |
@@ -16,7 +18,7 @@ Master of Science in Business Analytics, University of Cincinnati, Carl H. Lindn
 
 ## What I am working on
 
-**Care Advisor, Cincinnati Children's Hospital Medical Center** (May 2026 to present)
+**Care Advisor, Cincinnati Children's Hospital Medical Center** (May 2026 to present) · [case study](https://github.com/Sumit-Kashid/care-advisor-case-study)
 
 A patient flow and capacity tool for hospital staff. The rule I build by: Python does the math, the model only explains it.
 
@@ -44,10 +46,10 @@ Hypothesis testing in R on 1,599 wines: Welch t test, ANOVA, and a chi square te
 **Hospital Navigation Chatbot Observability**
 Added Langfuse tracing to a Django chatbot built on LangChain and Azure OpenAI, working through breaking changes in Langfuse v4 and LangChain 1.x.
 
-**TQL Emissions Reporting, Net Impact Consulting**
+**TQL Emissions Reporting, Net Impact Consulting** · [case study](https://github.com/Sumit-Kashid/tql-emissions-pipeline-case-study)
 Azure Data Factory pipelines and Power BI dashboards tracking energy and emissions KPIs across 50+ facilities for executive leadership.
 
-**Trusted AI in Banking, PNC CSL Case Competition**
+**Trusted AI in Banking, PNC CSL Case Competition** · [design](https://github.com/Sumit-Kashid/trusted-ai-banking-pnc)
 An explainable AI assistant design with bias evaluation and audit logging.
 
 ## Experience
@@ -68,6 +70,6 @@ An explainable AI assistant design with bias evaluation and audit logging.
 
 ## Contact
 
-[Email](mailto:sumitkashid505@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sumit-kashid/)
+[Website](https://sumit-kashid.github.io) · [Email](mailto:sumitkashid505@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sumit-kashid/)
 
 sumitkashid505@gmail.com · +1 513 290 0857
